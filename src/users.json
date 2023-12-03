@@ -1,0 +1,144 @@
+[
+    {
+      "name": "Никита", "age": 24,
+      "description": "Делаю лучшее в мире приложения для знакомств :) Женат. А теперь длинный текст, который будет разворачиваться при клике на описание, тестируем.",
+      "images": [
+        "/profile1_img1.jpg",
+        "/profile1_img2.jpg",
+        "/profile1_img3.jpg",
+        "/profile1_img4.jpg",
+        "/profile1_img5.jpg"
+      ],
+      "tags": [
+        "Котики",
+        "Песики",
+        "Длинные слова", 
+        "Моя любимая жена",
+        "Кира"
+      ],
+      "social_media": [
+        {
+          "name": "vk",
+          "url": "https://vk.com/call_of_belyaevo"
+        },
+        {
+          "name": "inst",
+          "url": "https://www.instagram.com/_heyheyhey32/"
+        },
+        {
+          "name": "tg",
+          "url": "https://t.me/hydroborum"
+        }
+      ]
+    },
+    {
+      "name": "Настя", "age": 21,
+      "description": "Тут много текста обо мне. Я такая-рассякая. Здесь проверяем перенос строки. Не люблю ставить смайлики. Текст кстати смотрится норм. Вообще все класс, снизу теги. Мб добавлю потом отдельный заголовок для них. А вот сейчас текст будет сокращаться и",
+      "images": [
+        "/profile2_img1.jpg",
+        "/profile2_img2.jpg",
+        "/profile2_img3.jpg",
+        "/profile2_img4.jpg",
+        "/profile2_img5.jpg",
+        "/profile2_img6.jpg",
+        "/profile2_img7.jpg",
+        "/profile2_img8.jpg",
+        "/profile2_img9.jpg",
+        "/profile2_img10.jpg"
+      ],
+      "tags": [
+        "Муж",
+        "python",
+        "Танцы", 
+        "Муринская дорога",
+        "Кира"
+      ],
+      "social_media": [
+        {
+          "name": "vk",
+          "url": "https://vk.com/anas29"
+        },
+        {
+          "name": "inst",
+          "url": "https://www.instagram.com/_nastyks_/"
+        },
+        {
+          "name": "tg",
+          "url": "https://t.me/AnaVarn"
+        }
+      ]
+    },
+    {
+      "name": "Богдан", "age": 23, "description": "Пофоткаю ваших подруг на знаковых мероприятиях",
+      "images": [
+        "/profile3_img1.jpg",
+        "/profile3_img2.jpg",
+        "/profile3_img3.jpg",
+        "/profile3_img4.jpg",
+        "/profile3_img5.jpg"
+      ],
+      "tags": [
+        "Фотографии",
+        "Мафия",
+        "IT"
+      ]
+    },
+    {
+      "name": "Юра", "age": 25, "description": "Эти усы дают бонус к прохождению собеседования",
+      "images": [
+        "/profile4_img1.jpg",
+        "/profile4_img2.jpg",
+        "/profile4_img3.jpg",
+        "/profile4_img4.jpg",
+        "/profile4_img5.jpg"
+      ],
+      "tags": [
+        "Dota",
+        "Dota 2",
+        "CUM ASS"
+      ],
+      "social_media": []
+    },
+    {
+      "name": "Кристина", "age": 24, "description": "Лучший игрок в gartic show по версии конфы Пидерцы",
+      "images": [
+        "/profile5_img1.jpg",
+        "/profile5_img2.jpg"
+      ],
+      "tags": [],
+      "social_media": []
+    },
+    {
+      "name": "Василина", "age": 24, "description": "Знаю наизусть финалисток пацанок",
+      "images": [
+        "/profile6_img1.jpg",
+        "/profile6_img2.jpg",
+        "/profile6_img3.jpg",
+        "/profile6_img4.jpg"
+      ],
+      "tags": [],
+      "social_media": []
+    },
+    {
+      "name": "Максим", "age": 24, "description": "Разобью чашу за вас",
+      "images": [
+        "/profile7_img1.jpg",
+        "/profile7_img2.jpg",
+        "/profile7_img3.jpg"
+      ],
+      "tags": [],
+      "social_media": []
+    },
+    {
+      "name": "Иван", "age": 25, "description": "Если у тебя daddy-issues, свайпай вправо",
+      "images": [
+        "/profile8_img1.jpg",
+        "/profile8_img2.jpg",
+        "/profile8_img3.jpg",
+        "/profile8_img4.jpg",
+        "/profile8_img5.jpg"
+      ],
+      "tags": [],
+      "social_media": []
+    }
+  ]

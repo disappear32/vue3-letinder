@@ -195,7 +195,7 @@ export default {
                         await new Promise((resolve, reject) => {
                             downloadImage.onload = resolve;
                             downloadImage.onerror = reject;
-                            downloadImage.src = userImage;
+                            downloadImage.src = '/vue3-letinder/' + userImage;
                         });
                         //TODO: проверить что будет если один из элементов массива не загрузится
                         downloadImages.push(downloadImage);
@@ -203,8 +203,6 @@ export default {
                     } catch (error) {
                         console.error("Error loading images:", error)
                     }
-
-                    await new Promise(resolve => setTimeout(resolve, 200))
                 }
                 this.images.push(downloadImages)
 

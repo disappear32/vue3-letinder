@@ -1,29 +1,9 @@
 # letinder
 
-This template should help get you started developing with Vue 3 in Vite.
+Тиндер-like приложение, созданное в целях обучения vue3
+Запускается через бот https://t.me/letinder_bot
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+TODO: 
+* прикрутить несколько экранов, например настройки и прошлые мэтчи, и настроить на них роутер
+* прикрутить получение данных с бэка, когда дойдут руки его написать. Пока что данные берутся просто из json
+* добавить стили для браузеров
